@@ -1,12 +1,17 @@
-## Proje kasıtlı olarak kullanacak kişilerin sorunları kendi başlarına çözmeleri için eksik ve hatalı paylaşılmıştır, zamanla eksikler ve hatalar düzeltilecektir.
-## Panel komutundan sunucu bilgilerini ve ALYA.js adlı dosyadan emoji ID'lerini girmeyi unutmayın.
+# Shapely
 
-## Selam dostlarım, bir süre önce kullandığım sunucuya özel botlarımı açık kaynak olarak herkese açık bir şekilde paylaşmaya karar verdim. Kullanımıyla alakalı ve diğer şeylerle ilgili destek/yardım almak için aşağıya bırakacağım topluluk sunucumuzdan yardım alabilirsiniz.
+## About Shapely
 
-# Yashinu & Alosha
+Shapely is a powerful and versatile one page WordPress theme with pixel perfect design and outstanding functionality. It is by far the most advanced free WordPress theme available today with loads of unmatched customization options. This theme comes with several homepage widgets that can be used to add portfolio, testimonials, parallax sections, your product or service information, call for action and much more.
 
- Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
-<p align="center">
-  <a href="https://discord.gg/ZBmhQ2T"><img src="https://img.shields.io/badge/Serendia%20Squad%20-1d202b.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://discord.com/users/460813657811582986"><img src="https://img.shields.io/badge/Yashinu%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-</p>
+Shapely supports most free and premium WordPress plugins such as WooCommerce, Jetpack, Gravity Forms, Contact Form 7, Yoast SEO, Google Analytics by Yoast and much more.
+
+This theme is the best suited for business, landing page, portfolio, ecommerce, store, local business,  personal websites but can be tweaked to be used as blog, magazine or any other awesome website while highlighting its unique one page setup. This is going to be the last WordPress theme you will ever want to use because it is so much better than anything you have seen. We promise.
+
+## Documentation
+
+Theme documentation available [here](https://colorlib.com/wp/themes/shapely/).
+
+## License
+
+This theme is licensed under GPLv3. You can feel free to modify it as loon gas you keep the original copyright information.
